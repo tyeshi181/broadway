@@ -1,0 +1,7 @@
+body {
+  font-family: helvetica;
+  text-align: center;
+}
+.Main_Banner {
+  background-image: url("images/background_image.webloc");
+}
