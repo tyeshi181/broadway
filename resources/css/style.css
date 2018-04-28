@@ -2,6 +2,37 @@ body {
   font-family: helvetica;
   text-align: center;
 }
-.Main_Banner {
-  background-image: url("images/background_image.webloc");
-}
+.main_banner {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  color: white;
+  }
+  h1 {
+    font-size: 70px;
+    font-weight: bold;
+    }
+  #nav {
+    font-size: 18px;
+  }
+  h2 {
+    font-size: 32px;
+    font-weight: bold;
+  }
+  h3 {
+    font-size: 23px;
+    font-weight: bold;
+  }
+  p {
+    font-size: 14px;
+  }
+  #design {
+    background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+    font-size: 23px:
+    font-weight: bold;
+    color: white;
+  }
+  .foot {
+    font-size: 11px;
+    color: white;
+    background-color: dimgray;
+    text-align: left;
+  }
